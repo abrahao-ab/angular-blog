@@ -19,7 +19,8 @@
 .big-card-title > a
 {
     margin-top: 10px;
-    font-size: 22px;
+    font-size: 40px;
+    font-weight: bold;
 }
 
 .big-card-description > p
