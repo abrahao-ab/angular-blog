@@ -1,0 +1,39 @@
+.content-container
+{
+    width: 100%;
+    height: 100vh;
+
+    margin-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-title
+{
+    margin-top: 20px;
+}
+
+.content-cover > img
+{
+    width: 500px;
+    max-width: 500px;
+    height: 300px;
+}
+
+.content-cover
+{
+    border: 5px solid grey;
+}
+.content-description > p
+{
+    margin-top: 20px;
+    color: grey;
+}
+
+a
+{
+    margin-top: 20px;
+}
